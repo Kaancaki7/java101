@@ -1,7 +1,7 @@
 package j101;
 import java.util.Scanner;
 
-public class notOrtalamasi {
+public class NotOrtalamasi {
     public static void main(String[] args) {
         int  mat, fizik, kimya, turkce, tarih, muzik;
         double ort;
