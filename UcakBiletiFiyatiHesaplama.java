@@ -115,4 +115,8 @@ public class UcakBiletiFiyatiHesaplama {
             }
         }
     }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 90762c27dcd48f9dd3f457cc520be2ed10efdfa9
