@@ -4,9 +4,15 @@ import java.util.Scanner;
 
 public class Giris {
     public static void main(String[] args) {
-        Scanner input = new Scanner(System.in);
-        System.out.println("bir değer giriniz:");
-        int a = input.nextInt();
-        System.out.println(a);
+        int i=1, j=1;
+        while(i<3)
+        {
+            do
+            {
+                System.out.print(j + ",");
+                j++;
+            }while(j<4);
+            i++;
+        }
     }
 }
