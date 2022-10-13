@@ -1,4 +1,4 @@
-package BoksOyunu;
+package j101;
 
 public class MainBoks {
     public static void main(String[] args) {
