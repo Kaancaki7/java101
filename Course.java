@@ -6,7 +6,7 @@ public class Course {
     String code;
     String prefix;
     int note;
-    
+
 
     Course(String name, String code,String prefix){
         this.name = name;
